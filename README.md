@@ -1,7 +1,5 @@
 # kilimle.com
 e commerce website
-Harika! Bu projeyle ilgili bir README dosyası oluşturmak için bir metin hazırlayabilirim.
-Kilimle.com Website
 
 This repository contains the codebase for Kilimle.com, an e-commerce website specializing in the sale of carpets and kilims. The website is built using HTML, CSS, and JavaScript and is designed to be responsive across various devices.
 Features:
